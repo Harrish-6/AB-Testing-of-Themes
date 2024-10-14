@@ -1,7 +1,7 @@
 # AB-Testing-of-Themes
 This project performs A/B testing on website themes using Python, analyzing user interaction data to identify statistically significant differences in conversion rates, bounce rates, and session durations.
 ## **Project Title: A/B Testing for Website Themes**
-**Dataset**: Website Performance: Case Study from STATSO
+**Dataset**: Light Theme and Dark Theme: Case Study from STATSO
 
 **Overview**
 
